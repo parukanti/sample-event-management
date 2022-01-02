@@ -1,11 +1,11 @@
 
 To run these project run these commands:
 ```
-npm install
-bower install
+npm install ( optional )
+bower install ( optional )
 gulp
 mvn clean package
 ```
 
 
-then deploy on erver.
+then deploy on Server.
