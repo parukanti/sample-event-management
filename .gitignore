@@ -34,3 +34,4 @@ build/
 
 ### Angular ###
 node-modules/
+/bin/
